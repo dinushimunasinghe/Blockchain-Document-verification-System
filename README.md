@@ -2,7 +2,7 @@
 
 A blockchain-based platform that allows users to upload and verify important documents securely.
 
-Key Skills - Blockchain (Ethereum, Solidity), smart contracts, web development (React, Node.js).
+Key Skills - Blockchain (Ethereum, Solidity), smart contracts, web development.
 
 Features,
 Smart contracts to verify document authenticity.
